@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<h1>Set指令</h1>
+#set(a="我是set指令赋的值")
+#(a)
+
+#(b??"我是默认值")
+
+<h1>条件判断</h1>
+#if(1>0)
+    1>0
+#end
+
+<h1>for循环</h1>
+
+#for(x : [1..10])
+    #(for.count) #(x) - #(for.size) <br>
+#end
+
+#--
+#include("common.html")
+--#
+
+#@templateFunction("!!!")<br>
+
+<h1>我是被分享的静态变量</h1>
+#(com.cxmhfut.service.ShareObject::shareVar)
+
+<h1>我是被分享的静态方法</h1>
+#(com.cxmhfut.service.ShareObject::shareMethod())
+#(shareMethod())
+
+<h1>我是被分享的变量</h1>
+#(sm.testStatic)
+#(sm.test)
+
+<h1>我是被分享的方法</h1>
+#(test())
+#(sm.test())
+
+</body>
+</html>
