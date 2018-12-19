@@ -6,7 +6,75 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356e750f-7b5d-4839-a75e-ece38e09ced1" name="Default Changelist" comment="" />
+    <list default="true" id="356e750f-7b5d-4839-a75e-ece38e09ced1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ssmStart/.idea/artifacts/ssmStart_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmStart/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/java/com/ssm/controller/CityController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/java/com/ssm/controller/DispatcherController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/java/com/ssm/dao/CityDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/java/com/ssm/mapper/CityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/java/com/ssm/pojo/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/java/com/ssm/service/CityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/java/com/ssm/service/CityServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/main/resources/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/main/resources/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/main/resources/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/main/webapp/WEB-INF/jsp/cityname.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/com/ssm/controller/CityController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/com/ssm/controller/DispatcherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/com/ssm/dao/CityDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/com/ssm/mapper/CityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/com/ssm/pojo/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/com/ssm/service/CityService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/com/ssm/service/CityServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/jsp/cityname.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/commons-dbcp-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/commons-pool-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/druid-1.0.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-aop-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-beans-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-context-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-context-support-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-core-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-expression-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-jdbc-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-oxm-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-test-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-tx-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-web-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/lib/spring-webmvc-4.2.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/HelloWorld/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/com/ssm/controller/CityController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/com/ssm/controller/DispatcherController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/com/ssm/dao/CityDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/com/ssm/mapper/CityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/com/ssm/pojo/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/com/ssm/service/CityService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/com/ssm/service/CityServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/target/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testwebapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testwebapp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -308,7 +376,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545186417498" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545189572790" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -450,15 +518,16 @@
       <workItem from="1545121821652" duration="131000" />
       <workItem from="1545122864013" duration="608000" />
       <workItem from="1545144568297" duration="1211000" />
-      <workItem from="1545184787575" duration="1838000" />
+      <workItem from="1545184787575" duration="2489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34984000" />
+    <option name="totallyTimeSpent" value="35635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="154" y="36" width="1244" height="798" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25707155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
