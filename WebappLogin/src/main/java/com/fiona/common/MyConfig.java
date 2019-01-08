@@ -49,6 +49,6 @@ public class MyConfig extends JFinalConfig {
     @Override
     public void configHandler(Handlers handlers) {
         handlers.add(new ContextPathHandler("ctx")); //防止丢失
-
+        handlers.add(new ContextPathHandler("cty")); //防止丢失
     }
 }
